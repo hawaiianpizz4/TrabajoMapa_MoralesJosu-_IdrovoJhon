@@ -1,0 +1,7 @@
+{
+  "name": "app_ciclo_vida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
