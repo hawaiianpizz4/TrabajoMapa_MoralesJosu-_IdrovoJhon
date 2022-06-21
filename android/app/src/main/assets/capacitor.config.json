@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "app_ciclo_vida",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
